@@ -1,5 +1,9 @@
+system.out.print ("ho0la")
 alert ("hello")
 alert ("i am a new coder")
 alert ("idk what i am doing but is fun")
 alert("alert is the only command i know")
 alert("xd")
+if (false)(
+alert("mi bombo"))
+else (alert ("mi bombo2"))
