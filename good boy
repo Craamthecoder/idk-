@@ -1,0 +1,9 @@
+stringVar = prompt("escribe 12")
+if (
+stringVar == 12
+)(
+alert ("good boy")
+)
+else (
+alert ("bad boy")
+)
